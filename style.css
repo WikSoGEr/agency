@@ -240,7 +240,7 @@
     right: 0;
 }
 .block_4 {
-    height: 850px;
+    height: 890px;
     width: 100%;
     background: url('./img/us6.png') no-repeat,
                 url('./img/us4.png') no-repeat,
@@ -420,8 +420,10 @@
 }
 .block_6 {
     width: 100%;
-    height: 390px;
+    height: 350px;
     background: url('./img/footer.png') no-repeat;
+    background-position: center;
+    background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
